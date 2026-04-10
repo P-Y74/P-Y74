@@ -25,8 +25,10 @@ Cybersecurity student with a technical background in software development, focus
 ## 📂 Projects
 
 - **[Laeh Tattoo](https://www.laehtattoo.com/)** – deployed web project  
-  A real-world web project designed and deployed to strengthen full-stack and production skills.  
-- Training projects from Holberton School  
+  Real-world project covering full-stack development, deployment, and production constraints.
+
+- Technical training projects (Holberton School)  
+  Focus on system programming, networking, and security fundamentals. 
 
 ---
 
@@ -35,12 +37,3 @@ Cybersecurity student with a technical background in software development, focus
 - LinkedIn: https://www.linkedin.com/in/pierre-yves  
 - Email: pfauconnet@proton.me  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=P-Y74&show_icons=true&theme=radical" alt="Pierre-Yves GitHub Stats"/> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Y74&layout=compact&theme=radical" alt="Most Used Languages"/> 
-</p>
