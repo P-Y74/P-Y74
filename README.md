@@ -39,8 +39,8 @@ Cybersecurity student with a technical background in software development, focus
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-Y74&show_icons=true&cache_seconds=1800" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Y74&layout=compact&cache_seconds=1800" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=P-Y74&show_icons=true&theme=radical" alt="Pierre-Yves GitHub Stats"/> 
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Y74&layout=compact&theme=radical" alt="Most Used Languages"/> 
 </p>
