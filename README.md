@@ -96,5 +96,3 @@ This experience helped me develop transferable skills that are useful in IT and 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/pierre-yves  
-- Email: pfauconnet@proton.me  
-
