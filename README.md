@@ -2,23 +2,24 @@
 
 **Junior cybersecurity profile | Systems, networks and security**
 
-Career changer moving from operational management into IT and cybersecurity.
+Career changer from operational management into IT and cybersecurity.
 
-I am currently completing a cybersecurity specialization at Holberton School, with a focus on systems, networks, web security, vulnerability analysis and security operations.
+I recently completed my cybersecurity specialization at Holberton School, where I developed practical foundations in systems, networks, web security, vulnerability analysis and security operations.
 
-I am looking for an internship or a first professional opportunity from **September 28, 2026**, in cybersecurity, systems and networks, or security operations.
+I am currently looking for a **2 to 6-month internship** and I am available immediately.
 
 ---
 
 ## Current focus
 
-- Linux and Windows fundamentals
+- Linux and Windows security fundamentals
 - TCP/IP networking and traffic analysis
 - Web and application security
 - Vulnerability analysis and controlled exploitation
-- Active Directory security in lab environments
-- Log, alert and traffic analysis
+- Active Directory security
+- Log and alert analysis
 - Python and Bash scripting
+- Reverse engineering fundamentals
 - Technical documentation and security reporting
 
 ---
@@ -33,13 +34,15 @@ I am looking for an internship or a first professional opportunity from **Septem
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-**TCP/IP • DNS • HTTP(S) • Active Directory fundamentals**
+**TCP/IP • DNS • HTTP(S) • Active Directory • Network segmentation fundamentals**
 
 ### Cybersecurity
 
 ![Kali Linux](https://skillicons.dev/icons?i=kali)
 
-**Nmap • Wireshark • Burp Suite • Metasploit Framework • OWASP Top 10 • Vulnerability Analysis • AD Security**
+**Nmap • Wireshark • Burp Suite • Metasploit Framework • OWASP Top 10 • Vulnerability Analysis • AD Security • SIEM/EDR fundamentals**
+
+**Reverse engineering:** JADX • apktool • Ghidra
 
 ### Programming & Development
 
@@ -50,13 +53,13 @@ I am looking for an internship or a first professional opportunity from **Septem
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-**SQL • SQLAlchemy • REST APIs**
+**SQL • SQLAlchemy • REST APIs • Docker Compose**
 
 ---
 
 ## Projects
 
-### Phishing Simulation Platform — Portfolio project in progress
+### Phishing Simulation Platform — Functional MVP
 
 Cybersecurity awareness platform designed to create, launch and analyse authorised phishing simulation campaigns.
 
@@ -68,17 +71,19 @@ Main technologies:
 - Nginx
 - Docker Compose
 
-Main areas of work:
+Main features and areas of work:
 
-- Application architecture and modular design
-- Campaign and participant management
-- Security and access control requirements
+- Campaign creation and launch
+- GoPhish integration
+- Participant and group management
+- Event tracking and reporting
+- Access control and tenant isolation
 - Data minimisation and retention
 - Audit logging
-- Phishing awareness and reporting
-- Deployment planning on a VPS
+- Security-focused architecture
+- Deployment preparation on a VPS
 
-This project is developed as part of my preparation for the **French RNCP Level 6 Application Designer and Developer qualification**.
+Developed in a two-person team as part of the preparation for the **French RNCP Level 6 Application Designer and Developer qualification**.
 
 ---
 
@@ -99,7 +104,27 @@ Key points:
 
 ---
 
-### Cybersecurity practice & labs
+## Offensive Security Practice
+
+### Holberton Red Team Department
+
+Member of the international **Holberton Red Team Department**, focused on developing practical offensive security skills in authorised environments.
+
+Activities include:
+
+- Penetration testing labs and security challenges
+- Vulnerability analysis and controlled exploitation
+- Network and system reconnaissance
+- Active Directory security
+- Technical reporting and remediation recommendations
+- TryHackMe and Hack The Box practice
+- Collaboration with members from different Holberton campuses
+
+All testing is performed within authorised, legal and ethical scopes.
+
+---
+
+## Cybersecurity Labs
 
 Regular hands-on practice on:
 
@@ -116,6 +141,7 @@ Main topics:
 - Network traffic analysis
 - Log and alert analysis
 - Security reporting and remediation recommendations
+- Reverse engineering fundamentals
 
 I am also preparing for the **CompTIA Security+** certification.
 
