@@ -1,167 +1,89 @@
+
 # Hi, I'm Pierre-Yves
 
-**Junior cybersecurity profile | Systems, networks and security**
+**Junior Cybersecurity | Offensive Security & Application Security**
 
-Career changer from operational management into IT and cybersecurity.
+After several years in operational management, I transitioned into IT and cybersecurity and completed my cybersecurity specialization at Holberton School in September 2026.
 
-I recently completed my cybersecurity specialization at Holberton School, where I developed practical foundations in systems, networks, web security, vulnerability analysis and security operations.
+I'm particularly interested in penetration testing, vulnerability analysis and application security, while continuing to develop my knowledge of defensive security and DevSecOps.
 
-I am currently looking for a **2 to 6-month internship** and I am available immediately.
-
----
-
-## Current focus
-
-- Linux and Windows security fundamentals
-- TCP/IP networking and traffic analysis
-- Web and application security
-- Vulnerability analysis and controlled exploitation
-- Active Directory security
-- Log and alert analysis
-- Python and Bash scripting
-- Reverse engineering fundamentals
-- Technical documentation and security reporting
+🎯 **Seeking my first cybersecurity role — Available from December 21, 2026.**
 
 ---
 
-## Technical skills
+## Experience & Projects
 
-### Systems & Networks
+### WOCSA — Cybersecurity Platform Development Intern
+*October – December 2026*
 
-![Linux](https://skillicons.dev/icons?i=linux)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+Contributing to **WOCShAck-platform**, a Django-based platform supporting an international student bug bounty challenge.
 
-**TCP/IP • DNS • HTTP(S) • Active Directory • Network segmentation fundamentals**
+- Backend development, bug fixing and regression testing
+- Git repository indexing improvements
+- MITRE CWE parser compatibility fix affecting CVSS forms
+- Collaborative development with GitHub Pull Requests and CI checks
 
-### Cybersecurity
+**Stack:** Python, Django, Docker, Git, GitHub Actions
 
-![Kali Linux](https://skillicons.dev/icons?i=kali)
+### Phish E.A.T. — Phishing Simulation Platform
 
-**Nmap • Wireshark • Burp Suite • Metasploit Framework • OWASP Top 10 • Vulnerability Analysis • AD Security • SIEM/EDR fundamentals**
+Functional MVP developed in a team of two to support employee phishing awareness.
 
-**Reverse engineering:** JADX • apktool • Ghidra
+- Campaign management, tracking and reporting
+- GoPhish integration and security-focused architecture
+- Access control, data protection and audit logging
 
-### Programming & Development
+**Stack:** Flask, PostgreSQL, GoPhish, Docker
 
-![Python](https://skillicons.dev/icons?i=python)
-![Bash](https://skillicons.dev/icons?i=bash)
-![C](https://skillicons.dev/icons?i=c)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Flask](https://skillicons.dev/icons?i=flask)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+### Laeh Tattoo — Web Application
 
-**SQL • SQLAlchemy • REST APIs • Docker Compose**
+Designed, developed and deployed a web application on a Linux VPS.
 
----
+**Stack:** Flask, SQLAlchemy, Nginx, Gunicorn, HTTPS, DNS
 
-## Projects
-
-### Phishing Simulation Platform — Functional MVP
-
-Cybersecurity awareness platform designed to create, launch and analyse authorised phishing simulation campaigns.
-
-Main technologies:
-
-- Flask
-- PostgreSQL
-- GoPhish
-- Nginx
-- Docker Compose
-
-Main features and areas of work:
-
-- Campaign creation and launch
-- GoPhish integration
-- Participant and group management
-- Event tracking and reporting
-- Access control and tenant isolation
-- Data minimisation and retention
-- Audit logging
-- Security-focused architecture
-- Deployment preparation on a VPS
-
-Developed in a two-person team as part of the preparation for the **French RNCP Level 6 Application Designer and Developer qualification**.
+[Live website](https://www.laehtattoo.com)
 
 ---
 
-### Laeh Tattoo — Deployed web application
+## Technical Skills
 
-Live project: [www.laehtattoo.com](https://www.laehtattoo.com)
+**Systems & Tools**
 
-Web application designed, developed and deployed in a real production environment.
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github" alt="Linux, Windows, Docker, Git, GitHub" />
 
-Key points:
+TCP/IP · DNS · Active Directory fundamentals
 
-- Flask backend with SQLite / SQLAlchemy
-- Linux VPS deployment
-- Nginx and Gunicorn
-- HTTPS and DNS configuration
-- Application security best practices
-- SPF, DKIM and DMARC configuration
+**Cybersecurity**
 
----
+<img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 
-## Offensive Security Practice
+Nmap · Wireshark · Burp Suite · Metasploit · OWASP Top 10
 
-### Holberton Red Team Department
+Vulnerability analysis · AD Security · SIEM/EDR fundamentals
 
-Member of the international **Holberton Red Team Department**, focused on developing practical offensive security skills in authorised environments.
+**Development**
 
-Activities include:
+<img src="https://skillicons.dev/icons?i=python,bash,c,js,flask,django,postgres" alt="Python, Bash, C, JavaScript, Flask, Django, PostgreSQL" />
 
-- Penetration testing labs and security challenges
-- Vulnerability analysis and controlled exploitation
-- Network and system reconnaissance
-- Active Directory security
-- Technical reporting and remediation recommendations
-- TryHackMe and Hack The Box practice
-- Collaboration with members from different Holberton campuses
-
-All testing is performed within authorised, legal and ethical scopes.
+SQLAlchemy · REST APIs · Automated testing
 
 ---
 
-## Cybersecurity Labs
+## Security Practice
 
-Regular hands-on practice on:
+Member of the international **Holberton Red Team Department**, developing offensive security skills through authorized exercises, vulnerability analysis and technical reporting.
 
-- TryHackMe
-- Hack The Box
-- PortSwigger Web Security Academy
+Regular hands-on practice with:
 
-Main topics:
-
-- Web vulnerability analysis
-- Network reconnaissance and scanning
-- Controlled exploitation
-- Active Directory security
-- Network traffic analysis
-- Log and alert analysis
-- Security reporting and remediation recommendations
-- Reverse engineering fundamentals
-
-I am also preparing for the **CompTIA Security+** certification.
+- **TryHackMe** · **Hack The Box** · **PortSwigger Web Security Academy**
+- Web, network and Active Directory security
+- Controlled exploitation and remediation reporting
+- Log analysis, incident investigation and reverse engineering fundamentals
 
 ---
 
-## Professional background
+## About My Background
 
-Before moving into IT and cybersecurity, I worked for several years in operational management.
+My previous management experience strengthened my communication, teamwork, organization and problem-solving skills — which I now bring to technical projects.
 
-This experience helped me develop transferable skills that are useful in technical and security teams:
-
-- Team coordination and training
-- Clear communication
-- Priority management
-- Process and procedure enforcement
-- Reporting and operational follow-up
-- Structured problem-solving
-
----
-
-## Contact
-
-- LinkedIn: [Pierre-Yves Fauconnet](https://www.linkedin.com/in/pierre-yves)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/pierre-yves-fauconnet/)
